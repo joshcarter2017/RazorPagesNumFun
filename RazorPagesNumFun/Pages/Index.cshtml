@@ -1,0 +1,55 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<link rel="stylesheet" href="~/css/site.css" />
+
+<div>
+    <!--Block contains OG num, prime facs, and num props-->
+    <table class="table">
+        <tr>
+            <th>Your Fun Number is: </th>
+        </tr>
+        <tr>
+            <td>@Model.CheckNum</td>
+        </tr>
+        <tr>
+            <th>Prime Factors</th>
+        </tr>
+        <tr>
+            <td>@Model.Primes</td>
+        </tr>
+        <tr>
+            <th>Property Name</th>
+            <th>Is it _______</th>
+        </tr>
+        <tr>
+            <td>Prime</td>
+            <td>@Model.Prime</td>
+        </tr>
+        <tr>
+            <td>Perfect</td>
+            <td>@Model.Perfect</td>
+        </tr>
+        <tr>
+            <td>Sqareful</td>
+            <td>@Model.Squareful</td>
+        </tr>
+        <tr>
+            <td>Sqarefull</td>
+            <td>@Model.Squarefull</td>
+        </tr>
+        <tr>
+            <td>Palindromic</td>
+            <td>@Model.Palindrome</td>
+        </tr>
+    </table>
+</div>
+
+<form method="post">
+    <label>Input Number</label>
+    <input asp-for="UserInput" type="number" />
+    <button type="submit">Submit</button>
+</form>

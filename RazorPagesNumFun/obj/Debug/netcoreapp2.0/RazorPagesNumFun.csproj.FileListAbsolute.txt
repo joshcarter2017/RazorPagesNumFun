@@ -1,0 +1,11 @@
+C:\Users\joshu\source\repos\RazorPagesNumFun\RazorPagesNumFun\bin\Debug\netcoreapp2.0\RazorPagesNumFun.deps.json
+C:\Users\joshu\source\repos\RazorPagesNumFun\RazorPagesNumFun\bin\Debug\netcoreapp2.0\RazorPagesNumFun.runtimeconfig.json
+C:\Users\joshu\source\repos\RazorPagesNumFun\RazorPagesNumFun\bin\Debug\netcoreapp2.0\RazorPagesNumFun.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\RazorPagesNumFun\RazorPagesNumFun\bin\Debug\netcoreapp2.0\RazorPagesNumFun.dll
+C:\Users\joshu\source\repos\RazorPagesNumFun\RazorPagesNumFun\bin\Debug\netcoreapp2.0\RazorPagesNumFun.pdb
+C:\Users\joshu\source\repos\RazorPagesNumFun\RazorPagesNumFun\obj\Debug\netcoreapp2.0\RazorPagesNumFun.csprojResolveAssemblyReference.cache
+C:\Users\joshu\source\repos\RazorPagesNumFun\RazorPagesNumFun\obj\Debug\netcoreapp2.0\RazorPagesNumFun.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\RazorPagesNumFun\RazorPagesNumFun\obj\Debug\netcoreapp2.0\RazorPagesNumFun.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\RazorPagesNumFun\RazorPagesNumFun\obj\Debug\netcoreapp2.0\RazorPagesNumFun.AssemblyInfo.cs
+C:\Users\joshu\source\repos\RazorPagesNumFun\RazorPagesNumFun\obj\Debug\netcoreapp2.0\RazorPagesNumFun.dll
+C:\Users\joshu\source\repos\RazorPagesNumFun\RazorPagesNumFun\obj\Debug\netcoreapp2.0\RazorPagesNumFun.pdb
